@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "nombre": "Guitarra criolla",
+      "familia": "Cuerda",
+      "origen": "España",
+      "descripcion": "Instrumento de seis cuerdas utilizado en numerosos estilos musicales.",
+      "disponible": true
+    },
+    {
+      "id": 2,
+      "nombre": "Bandoneón",
+      "familia": "Viento",
+      "origen": "Alemania",
+      "descripcion": "Instrumento de fuelle muy asociado al tango argentino.",
+      "disponible": true
+    },
+    {
+      "id": 3,
+      "nombre": "Bombo legüero",
+      "familia": "Percusión",
+      "origen": "Argentina",
+      "descripcion": "Instrumento de percusión tradicional utilizado en el folclore argentino.",
+      "disponible": false
+    },
+    {
+      "id": 4,
+      "nombre": "Quena",
+      "familia": "Viento",
+      "origen": "Región andina",
+      "descripcion": "Instrumento de viento tradicional construido generalmente con caña o madera.",
+      "disponible": true
+    },
+    {
+      "id": 5,
+      "nombre": "Violín",
+      "familia": "Cuerda",
+      "origen": "Italia",
+      "descripcion": "Instrumento de cuerda frotada utilizado en música clásica y popular.",
+      "disponible": true
+    }
+  ]
